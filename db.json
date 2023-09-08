@@ -1,0 +1,13 @@
+{
+  "edition": {
+    "outputDocuments": [
+        {
+            "code": "__",
+            "identifier": "__",
+            "label": "__",
+            "printStatusTlm": "__",
+            "signStatusTlm": "__"
+        }
+    ]
+}
+}
