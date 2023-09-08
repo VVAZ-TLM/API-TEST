@@ -2,11 +2,11 @@
   "edition": {
     "outputDocuments": [
         {
-            "code": "__",
-            "identifier": "__",
-            "label": "__",
-            "printStatusTlm": "__",
-            "signStatusTlm": "__"
+            "code": "code123",
+            "identifier": "id123456",
+            "label": "label-qzdnjz&é",
+            "printStatusTlm": "true",
+            "signStatusTlm": "true"
         }
     ]
 }
